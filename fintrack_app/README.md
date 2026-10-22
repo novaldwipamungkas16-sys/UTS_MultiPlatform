@@ -195,3 +195,13 @@ flutter test
 ---
 
 *Disusun untuk memenuhi Tugas Ujian Tengah Semester (UTS) Mata Kuliah Pemrograman Multiplatform TA 2026/2027.*
+
+---
+
+## 👤 Pembuat
+
+**Nama:** Kahfiyya Nurzahra Hartono  
+**NIM:** 240605110053  
+**Program Studi:** Teknik Informatika  
+**Fakultas:** Sains dan Teknologi  
+**Universitas:** Universitas Islam Negeri Maulana Malik Ibrahim Malang
