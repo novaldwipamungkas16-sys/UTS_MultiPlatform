@@ -4,6 +4,7 @@
 
 import 'dart:io';
 import 'package:flutter/material.dart';
+import 'package:intl/date_symbol_data_local.dart';
 import 'package:sqflite_common_ffi/sqflite_ffi.dart';
 import 'screens/home_screen.dart';
 import 'services/preference_service.dart';
@@ -11,6 +12,9 @@ import 'services/preference_service.dart';
 void main() async {
   // Memastikan binding Flutter engine telah terinisialisasi sebelum operasi asinkron
   WidgetsFlutterBinding.ensureInitialized();
+
+  // Menyiapkan data locale Indonesia sebelum DateFormat dipakai di UI transaksi.
+  await initializeDateFormatting('id_ID');
 
   // Inisialisasi basis data SQLite FFI jika berjalan di platform Desktop (Windows / Linux)
   if (Platform.isWindows || Platform.isLinux) {
