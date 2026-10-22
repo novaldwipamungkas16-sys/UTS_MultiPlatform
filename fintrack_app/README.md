@@ -200,8 +200,8 @@ flutter test
 
 ## 👤 Pembuat
 
-**Nama:** Kahfiyya Nurzahra Hartono  
-**NIM:** 240605110053  
+**Nama:** Noval Dwi Pamungkas  
+**NIM:** 240605110040  
 **Program Studi:** Teknik Informatika  
 **Fakultas:** Sains dan Teknologi  
 **Universitas:** Universitas Islam Negeri Maulana Malik Ibrahim Malang
