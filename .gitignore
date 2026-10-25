@@ -1,0 +1,11 @@
+# Temporary Microsoft Office locks
+~$*
+# Python cache
+__pycache__/
+*.pyc
+# Secrets and signing keys
+.env
+.env.*
+*.jks
+*.keystore
+key.properties

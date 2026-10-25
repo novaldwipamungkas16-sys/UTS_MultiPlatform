@@ -69,8 +69,9 @@ Project menerapkan dua teknik penyimpanan data:
 ```text
 UTS/
 ├── README.md
-├── Laporan_UTS_Pemrograman_Multiplatform_Noval_Dwi_Pamungkas_240605110040.pdf
-├── Laporan_UTS_Pemrograman_Multiplatform_Noval_Dwi_Pamungkas_240605110040.docx
+├── Laporan_UTS_FinTrack_Noval_240605110040_Revisi_Format.docx
+├── create_report.py
+├── revise_report.py
 └── fintrack_app/
     ├── lib/
     │   ├── main.dart
@@ -154,7 +155,7 @@ Hasil pengujian terakhir: **semua test berhasil lulus**.
 Laporan lengkap tersedia pada file:
 
 ```text
-Laporan_UTS_Pemrograman_Multiplatform_Noval_Dwi_Pamungkas_240605110040.pdf
+Laporan_UTS_FinTrack_Noval_240605110040_Revisi_Format.docx
 ```
 
 Dokumentasi teknis khusus source code tersedia pada:
